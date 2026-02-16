@@ -1,0 +1,3 @@
+../Core/Src/logger_lpuart.c:22:6:lpuart_log_init	16	static
+../Core/Src/logger_lpuart.c:28:13:lpuart_log_transmit	16	static
+../Core/Src/logger_lpuart.c:34:6:lpuart_log_printf	16	static
